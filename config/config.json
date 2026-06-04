@@ -1,0 +1,22 @@
+{
+  "server": {
+    "name": "Discord Town",
+    "prefix": "!",
+    "description": "Infrastructure Hub",
+    "features": {
+      "moderation": true,
+      "logging": true,
+      "roles": true
+    }
+  },
+  "channels": {
+    "logs": null,
+    "announcements": null,
+    "general": null
+  },
+  "roles": {
+    "admin": null,
+    "moderator": null,
+    "member": null
+  }
+}
